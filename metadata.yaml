@@ -1,4 +1,8 @@
 _repo: Gerichtliche-Leichen-Oeffnungen-Zweites-Hundert_46979
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46979-h/images/cover.jpg
 creator:
   author:
     agent_name: Casper, Johann Ludwig
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44010
     wikipedia: http://de.wikipedia.org/wiki/Johann_Ludwig_Casper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46979#Gerichtliche-Leichen-Oeffnungen-Zweites-Hundert
 gutenberg_issued: '2014-09-27'
 gutenberg_type: Text
 identifiers:
